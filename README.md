@@ -1,0 +1,4 @@
+- 👋 Hi, I’m a software engineer currently working in aerospace.
+- 👀 I [play and record music](https://open.spotify.com/artist/7rnESyWl2RFddAbAOZqI4R?si=qOIBU0XARze0K4Eldyrm6A), build stuff that makes noise and loves tech in general.
+- 🌱 I'm currently learning IoT-focused tech, automotive systems, longboarding and insane guitar solos (still bad at it though).
+- 💞️ I’m looking to collaborate on any type of embedded device and the beautiful interfaces that come with it.
